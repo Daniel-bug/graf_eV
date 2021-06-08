@@ -1,0 +1,10 @@
+C:\Users\Uzivatel\source\repos\graf_eV\graf_eV\bin\Debug\graf_eV.exe.config
+C:\Users\Uzivatel\source\repos\graf_eV\graf_eV\bin\Debug\graf_eV.exe
+C:\Users\Uzivatel\source\repos\graf_eV\graf_eV\bin\Debug\graf_eV.pdb
+C:\Users\Uzivatel\source\repos\graf_eV\graf_eV\obj\Debug\graf_eV.csprojAssemblyReference.cache
+C:\Users\Uzivatel\source\repos\graf_eV\graf_eV\obj\Debug\graf_eV.Form1.resources
+C:\Users\Uzivatel\source\repos\graf_eV\graf_eV\obj\Debug\graf_eV.Properties.Resources.resources
+C:\Users\Uzivatel\source\repos\graf_eV\graf_eV\obj\Debug\graf_eV.csproj.GenerateResource.cache
+C:\Users\Uzivatel\source\repos\graf_eV\graf_eV\obj\Debug\graf_eV.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\source\repos\graf_eV\graf_eV\obj\Debug\graf_eV.exe
+C:\Users\Uzivatel\source\repos\graf_eV\graf_eV\obj\Debug\graf_eV.pdb
